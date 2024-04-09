@@ -1,4 +1,6 @@
-To run the jupyternotebook, you will need the following packages in addition to Python 3.7:
+The implement codes are  RO_NNs.ipynb and three optimization problems.ipynb
+
+To run the jupyternotebooks, you will need the following packages in addition to Python 3.7:
 numpy == 1.15.1
 scipy == 1.1.0
 scikit-learn == 0.19.2
